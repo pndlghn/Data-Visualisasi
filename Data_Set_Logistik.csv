@@ -1,0 +1,51 @@
+ID Pesanan,Tanggal Pengiriman,Lokasi Asal,Lokasi Tujuan,Berat Barang (kg),Biaya Pengiriman (Rp),Waktu Tempuh (jam),Status Pengiriman
+ORD1000,2024-01-01,Jakarta,Surabaya,5,50000,6,Terkirim
+ORD1001,2024-01-02,Bandung,Jakarta,10,75000,12,Dalam Perjalanan
+ORD1002,2024-01-03,Surabaya,Bandung,3,30000,5,Terkirim
+ORD1003,2024-01-04,Medan,Makassar,8,90000,10,Tertunda
+ORD1004,2024-01-05,Makassar,Medan,15,120000,15,Dalam Perjalanan
+ORD1005,2024-01-06,Jakarta,Surabaya,7,70000,8,Terkirim
+ORD1006,2024-01-07,Bandung,Jakarta,12,85000,14,Dalam Perjalanan
+ORD1007,2024-01-08,Surabaya,Bandung,4,40000,7,Terkirim
+ORD1008,2024-01-09,Medan,Makassar,6,60000,9,Tertunda
+ORD1009,2024-01-10,Makassar,Medan,9,95000,11,Dalam Perjalanan
+ORD1010,2024-01-11,Jakarta,Surabaya,11,110000,13,Terkirim
+ORD1011,2024-01-12,Bandung,Jakarta,14,140000,16,Dalam Perjalanan
+ORD1012,2024-01-13,Surabaya,Bandung,2,25000,4,Terkirim
+ORD1013,2024-01-14,Medan,Makassar,13,130000,12,Tertunda
+ORD1014,2024-01-15,Makassar,Medan,16,160000,18,Dalam Perjalanan
+ORD1015,2024-01-16,Jakarta,Surabaya,5,55000,6,Terkirim
+ORD1016,2024-01-17,Bandung,Jakarta,9,92000,10,Dalam Perjalanan
+ORD1017,2024-01-18,Surabaya,Bandung,7,72000,9,Terkirim
+ORD1018,2024-01-19,Medan,Makassar,4,45000,5,Tertunda
+ORD1019,2024-01-20,Makassar,Medan,10,102000,13,Dalam Perjalanan
+ORD1020,2024-01-21,Jakarta,Surabaya,8,87000,7,Terkirim
+ORD1021,2024-01-22,Bandung,Jakarta,6,68000,9,Dalam Perjalanan
+ORD1022,2024-01-23,Surabaya,Bandung,5,54000,6,Terkirim
+ORD1023,2024-01-24,Medan,Makassar,15,155000,15,Tertunda
+ORD1024,2024-01-25,Makassar,Medan,18,180000,20,Dalam Perjalanan
+ORD1025,2024-01-26,Jakarta,Surabaya,10,100000,10,Terkirim
+ORD1026,2024-01-27,Bandung,Jakarta,11,115000,12,Dalam Perjalanan
+ORD1027,2024-01-28,Surabaya,Bandung,7,72000,8,Terkirim
+ORD1028,2024-01-29,Medan,Makassar,14,140000,14,Tertunda
+ORD1029,2024-01-30,Makassar,Medan,9,93000,11,Dalam Perjalanan
+ORD1030,2024-01-31,Jakarta,Surabaya,12,125000,13,Terkirim
+ORD1031,2024-02-01,Bandung,Jakarta,17,170000,17,Dalam Perjalanan
+ORD1032,2024-02-02,Surabaya,Bandung,3,35000,5,Terkirim
+ORD1033,2024-02-03,Medan,Makassar,16,165000,16,Tertunda
+ORD1034,2024-02-04,Makassar,Medan,20,200000,22,Dalam Perjalanan
+ORD1035,2024-02-05,Jakarta,Surabaya,8,85000,9,Terkirim
+ORD1036,2024-02-06,Bandung,Jakarta,7,74000,8,Dalam Perjalanan
+ORD1037,2024-02-07,Surabaya,Bandung,5,52000,6,Terkirim
+ORD1038,2024-02-08,Medan,Makassar,9,97000,11,Tertunda
+ORD1039,2024-02-09,Makassar,Medan,13,135000,15,Dalam Perjalanan
+ORD1040,2024-02-10,Jakarta,Surabaya,6,65000,7,Terkirim
+ORD1041,2024-02-11,Bandung,Jakarta,10,105000,10,Dalam Perjalanan
+ORD1042,2024-02-12,Surabaya,Bandung,4,48000,5,Terkirim
+ORD1043,2024-02-13,Medan,Makassar,11,112000,13,Tertunda
+ORD1044,2024-02-14,Makassar,Medan,15,150000,18,Dalam Perjalanan
+ORD1045,2024-02-15,Jakarta,Surabaya,12,125000,14,Terkirim
+ORD1046,2024-02-16,Bandung,Jakarta,7,72000,9,Dalam Perjalanan
+ORD1047,2024-02-17,Surabaya,Bandung,14,145000,16,Terkirim
+ORD1048,2024-02-18,Medan,Makassar,19,190000,23,Tertunda
+ORD1049,2024-02-19,Makassar,Medan,8,87000,8,Dalam Perjalanan
